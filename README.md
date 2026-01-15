@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I'm Shristi Dixit.<br>👀 I’m interested in data science.<br>🌱 I’m currently learning UI/UX Design.<br>📫 How to reach me dixitshristi7@gmail.com
+👋 Hey! I'm Shristi Dixit.<br>👀 I’m interested in AI Data Driven.<br>🌱 I’m currently learning UI/UX Design.<br>📫 How to reach me dixitshristi7@gmail.com
 
 
 ## 🌐 Socials:
