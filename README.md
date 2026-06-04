@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I'm Shristi Dixit.<br>👀 AI-Powered Data-Driven Product Designer.<br> UX Research.<br> UX Analytics.<br> Product Thinking
+Hey! I'm Shristi Dixit.<br>AI-Powered Data-Driven Product Designer.<br> UX Research.<br> UX Analytics.<br> Product Thinking
 
 
 ## 🌐 Socials:
