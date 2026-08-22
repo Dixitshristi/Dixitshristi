@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Shristi Dixit.<br>AI-Aware Product Designer.<br> UX Research.<br> UX Analytics.<br> Product Thinking
+Hey! I'm Shristi Dixit.<br>AI-Augmented Data Analyst.<br> UI/UX Designer.<br> UX Research.<br> UX Analytics.<br> Product Thinking
 
 
 ## 🌐 Socials:
