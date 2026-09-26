@@ -32,15 +32,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 - **LinkedIn:** [shristi-dixit](https://www.linkedin.com/in/shristi-dixit-39ba3b274/)
