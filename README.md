@@ -18,16 +18,16 @@
 
 ### 📌 Featured Projects
 
-- **[Superstore Sales Analytics & Forecasting Dashboard](https://github.com/)**  
+- **[Superstore Sales Analytics & Forecasting Dashboard](https://github.com/Dixitshristi/Superstore-Sales-Analytics-Forecasting-Dashboard)**  
   Built a star-schema Power BI dashboard utilizing DAX and Power Query across 4 years of retail sales to uncover revenue leaks and forecast trends.
 
-- **[Retail Store Inventory & Sales Database](https://github.com/)**  
+- **[Retail Store Inventory & Sales Database](https://github.com/Dixitshristi/retail-store-inventory-sales-sql)**  
   Architected a normalized 5-table relational schema in MySQL with primary/foreign key constraints, nested subqueries, and aggregation for sales analytics.
 
-- **[E-Commerce Sales & Revenue Dashboard](https://github.com/)**  
+- **[E-Commerce Sales & Revenue Dashboard](https://github.com/Dixitshristi/Ecommerce-Sales-Analytics-Dashboard)**  
   Processed 8,000+ transaction records in MS Excel using dynamic KPI cards, multi-condition pivot tables, and slicers to evaluate regional profit metrics.
 
-- **[Sales Analytics Dashboard](https://github.com/)**  
+- **[Interactive Sales Analytics Dashboard](https://github.com/Dixitshristi/Interactive-Sales-Analytics-Dashboard)**  
   Created an interactive Google Sheets analytics tool providing category-level and regional revenue breakdowns with dynamic slicers.
 
 ---
